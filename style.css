@@ -26,7 +26,6 @@ h2 {
 
 .box:hover {
     transform: scale(1.05);
-    transition: height 1s;
 }
 
 .navigation_bar {
