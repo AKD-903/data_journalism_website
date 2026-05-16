@@ -41,6 +41,7 @@ h2 {
     color: black;
     font-weight: bold;
     text-decoration: none;
+    text-align: left;
 }
 
 .navigation_bar a:hover {
