@@ -32,11 +32,6 @@ h2 {
     border-radius: 10px; 
 }
 
-img {
-    width: 200px;
-    height: 500px; 
-}
-
 .box:hover {
     transform: scale(1.05);
 }
