@@ -33,7 +33,8 @@ h2 {
 }
 
 img {
-    height: 1500px; 
+    width: 80%;
+    height: auto; 
 }
 
 .box:hover {
