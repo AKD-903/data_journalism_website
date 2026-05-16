@@ -36,11 +36,6 @@ h2 {
     transform: scale(1.05);
 }
 
-img {
-    width: 700px;
-    height: 700px;
-}
-
 .navigation_bar {
     background-color: var(--c1);
     padding: 15px;
