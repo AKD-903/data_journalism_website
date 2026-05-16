@@ -9,9 +9,9 @@ A browser-based data visualization website analyzing player statistics from Trin
 
 The project investigates questions such as:
 
-Does a higher number of tags correlate with a longer lifespan?
-Are there noticeable patterns in player performance?
-Does the first letter of someone’s name affect their survival time?
+- Does a higher number of tags correlate with a longer lifespan?
+- Are there noticeable patterns in player performance?
+- Does the first letter of someone’s name affect their survival time?
 
 While some analyses are serious and data-driven, others are intentionally more fun.
 
