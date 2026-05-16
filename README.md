@@ -1,7 +1,7 @@
 # Stalker Tag - A Data Analysis Project
 Advanced Computer Science II - Trinity School
 
-A browser-based data visualization website analyzing player statistics from Trinity Sticker Tag. The site explores relationships between tag count, lifespan, and even the first letter of players’ names through interactive graphs and a retro terminal-inspired design.
+A browser-based data visualization website analyzing player statistics from Trinity Sticker Tag. The site explores relationships between tag count, lifespan, and even the first letter of players’ names through interactive graphs and a retro design.
 
 ---
 
