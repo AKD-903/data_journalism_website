@@ -45,7 +45,7 @@ h2 a {
 .navigation_bar {
     background-color: var(--c1);
     padding: 15px;
-    justify-content: space-around;
+    justify-content: center;
     display: flex;   
 }
 
