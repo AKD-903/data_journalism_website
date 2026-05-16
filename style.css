@@ -40,9 +40,7 @@ h2 {
     background-color: var(--c1);
     padding: 15px;
     justify-content: space-around;
-    display: flex;
-    text-align: left;
-    
+    display: flex;   
 }
 
 .navigation_bar a {
