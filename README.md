@@ -5,7 +5,7 @@ A browser-based data visualization website analyzing player statistics from Trin
 
 ---
 
-# Website Overview
+## Website Overview
 
 The project investigates questions such as:
 
